@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+body{
+    font-family: 'Abril Fatface', cursive;
+    background-color: rgb(146, 145, 145);
+}
+
+.article-img{
+    border-radius: 20%;
+}
+
+.art-link{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+.art-link:hover{
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+.so-link{
+    text-decoration: none;
+    color: blue;
+}
+
+.so-link:hover{
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+}
